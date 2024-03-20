@@ -1,0 +1,18 @@
+# exclude images
+images/
+# exclude attributes
+layers/
+
+# exclude all-*
+all-*
+
+# exclude archives
+*.zip
+# exclude csv
+*.csv
+# exclude generated metadata
+metadata*
+
+# exclude complete metadata
+*.json
+
