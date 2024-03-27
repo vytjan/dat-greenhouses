@@ -1,5 +1,6 @@
 # exclude images
 images/
+100_images*
 # exclude attributes
 layers/
 
@@ -12,6 +13,8 @@ all-*
 *.csv
 # exclude generated metadata
 metadata*
+100_metadata*
+
 
 # exclude complete metadata
 *.json
